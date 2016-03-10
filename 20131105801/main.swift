@@ -52,7 +52,7 @@ for var i in 1...20
 hello(i)
 }*/
 
-
+//////////////////////////////////////////////////////////
 
 /*import Cocoa
 func add(a x:Int,b y:Int,c z:Int)
