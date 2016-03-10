@@ -57,3 +57,52 @@ add(a:10,b:20,c:30)*/
 
 //var j:Int
 
+/////////////////////////////////////////////////////////
+//创建一个ContactAdd类型的按钮
+/*
+var button:UIButton = UIButton.buttonWithType(UIButtonType.ContactAdd) as UIButton;
+//设置按钮位置和大小
+button.frame=CGRectMake(10, 150, 100, 30);
+//设置按钮文字
+button.setTitle("按钮", forState:UIControlState.Normal)
+self.view.addSubview(button);
+
+*/
+
+
+//var button = UIButton(frame:CGRectMake(10, 150, 100, 30))
+
+
+/////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
