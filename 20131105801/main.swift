@@ -33,6 +33,12 @@ for i=1;i<10;i++
     print("\(i)")
 }
 
+var index2:Int
+for index2=0;index2<5;index2++
+{
+    print("\(index2)")
+}
+
 /////////////////////////////////////////////////////////
 
 /*import Cocoa
