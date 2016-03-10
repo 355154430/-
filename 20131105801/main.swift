@@ -14,10 +14,11 @@
 //////////////////////////////////////////////////////////
 
 import Foundation
-var a:Int,b:Int,c:Int,i:Int
-a=100
-b=100
-c=a+b
+//var a:Int,b:Int,c:Int,i:Int
+var a=100
+var b=100
+var c=a+b
+var i:Int
 print("\(c)")
 for index in 1...5
 {
@@ -54,4 +55,5 @@ print("\(x)+\(y)+\(z)=\(x+y+z)")
 add(a:10,b:20,c:30)*/
 
 
+//var j:Int
 
