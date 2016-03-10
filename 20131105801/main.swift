@@ -12,7 +12,8 @@
 //print("Hello, World!!")
 
 //////////////////////////////////////////////////////////
-
+//import <UIKit/UIKit.h>
+//import "LegendViewController.h"
 import Foundation
 //var a:Int,b:Int,c:Int,i:Int
 var a=100
@@ -92,13 +93,26 @@ typedef enum {
 */
 //////////////////////////////////////////////////////
 
+/*
+typedef enum {
+    UIModalTransitionStyleCoverVertical = 0,
+    UIModalTransitionStyleFlipHorizontal,
+    UIModalTransitionStyleCrossDissolve,
+    UIModalTransitionStylePartialCurl,
+} UIModalTransitionStyle;
 
 
+systemstyleViewController * s = [[systemstyleViewController alloc]init];
 
+UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:s];
 
+s.modalPresentationStyle = UIModalPresentationFormSheet ;
 
+s.modalTransitionStyle = UIModalTransitionStyleFlipHorizontal ;
 
+[self presentModalViewController:s animated:YES] ;
 
+*/
 
 
 
