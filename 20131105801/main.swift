@@ -19,9 +19,7 @@ print("Hello, World!!")
 //  Copyright © 2016年 King. All rights reserved.
 //
 
-
 //////////////////////////////////////////////////////////
-
 
 import Foundation
 var a:Int,b:Int,c:Int,i:Int
