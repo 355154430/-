@@ -75,7 +75,16 @@ self.view.addSubview(button);
 
 /////////////////////////////////////////////////////////////////
 
-
+//  窗口
+/*
+typedef enum {
+    UIModalPresentationFullScreen = 0,
+    UIModalPresentationPageSheet,
+    UIModalPresentationFormSheet,
+    UIModalPresentationCurrentContext,
+} UIModalPresentationStyle;
+*/
+//////////////////////////////////////////////////////
 
 
 
