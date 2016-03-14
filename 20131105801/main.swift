@@ -36,6 +36,7 @@ for i=1;i<10;i++
 
 let me = (name: "Mark",no: 11,email: "11.11")
 print("\(me .name)")
+print (me)
 //////////////////////////////////////////////////////////
 /*
 var index2:Int
