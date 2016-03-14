@@ -34,6 +34,8 @@ for i=1;i<10;i++
     print("\(i)")
 }
 
+let me = (name: "Mark",no: 11,email: "11.11")
+print("\(me .name)")
 //////////////////////////////////////////////////////////
 /*
 var index2:Int
