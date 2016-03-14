@@ -14,9 +14,9 @@
 //////////////////////////////////////////////////////////
 //import <UIKit/UIKit.h>
 //import "LegendViewController.h"
-import Foundation
 //import UIkit
-//var a:Int,b:Int,c:Int,i:Int
+import Foundation
+
 var a=100
 var b=100
 var c=a+b
