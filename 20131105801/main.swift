@@ -15,6 +15,7 @@
 //import <UIKit/UIKit.h>
 //import "LegendViewController.h"
 import Foundation
+//import UIkit
 //var a:Int,b:Int,c:Int,i:Int
 var a=100
 var b=100
@@ -37,6 +38,16 @@ for i=1;i<10;i++
 let me = (name: "Mark",no: 11,email: "11.11")
 print("\(me .name)")
 print (me)
+
+
+
+
+////////////////////////////////////////////////////////
+/*
+let ab=10
+let ac=20
+let mod = ab % ac
+*/
 //////////////////////////////////////////////////////////
 /*
 var index2:Int
